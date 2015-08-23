@@ -1,7 +1,7 @@
 Code Book
 ========
 
---------
+
 
 Data Source
 ------------------
@@ -19,7 +19,7 @@ Final result of run_analysis.R script is tidy_data.txt file, which contains clea
 4. labels the data set with descriptive variable names,
 5. creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-More about the process of cleaning data can be found in readme.md file in this repository.[link here]
+More about the process of cleaning data can be found in [README.md](https://github.com/warpp/getting-cleaning-data/blob/master/README.md) file in this repository.
 
 Feature selection 
 ----------------------
