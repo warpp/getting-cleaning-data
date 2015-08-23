@@ -1,7 +1,7 @@
 README.md
 ========
 
---------
+
 
 Project Description
 ------------------
@@ -37,7 +37,7 @@ The script run_analysis.R does the following:
 
 
 ###Variables in the tidy_data.txt file
-Information about variables in the tidy_data.txt file are in the CodeBook in this repository.
+Information about variables in the tidy_data.txt file are in the [CodeBook](https://github.com/warpp/getting-cleaning-data/blob/master/CodeBook.md) in this repository.
 
 
 ####Notes:
